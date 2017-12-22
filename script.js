@@ -1,5 +1,6 @@
 "use strict";
 
+
 var input = document.getElementById('input'), // input/output button
   number = document.querySelectorAll('.numbers div'), // number buttons
   operator = document.querySelectorAll('.operators div'), // operator buttons
